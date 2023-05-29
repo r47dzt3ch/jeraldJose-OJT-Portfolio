@@ -73,6 +73,22 @@ h6 {
 .dropdown:hover .dropdown-menu {
   display: block;
 }
+.image-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.image-servicos {
+  width: 400px;
+  height: 300px;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.image-servicos:hover {
+  transform: scale(1.1);
+}
+
 
 .dropdown-menu li {
   list-style: none;
