@@ -527,16 +527,42 @@ main #competencyskills{
   background-color: #17161f;
   padding: 10
   
-  px 50px;
 }
 main #competencyskills .larguraMaxContainer {
   color: #fefbfb;
   font-size: 2.4rem;
   font-weight: 500;
   font-family: "Circular Std Book";
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
   text-align: center;
 }
+main #mythinkingskills{
+  background-color: #17161f;
+  padding: 10
+  
+}
+main #mythinkingskills .larguraMaxContainer {
+  color: #fefbfb;
+  font-size: 2.4rem;
+  font-weight: 500;
+  font-family: "Circular Std Book";
+  /* margin-bottom: 50px; */
+  text-align: center;
+}
+main #workexprience{
+  background-color: #17161f;
+  padding: 10
+  
+}
+main #workexprience  .larguraMaxContainer {
+  color: #fefbfb;
+  font-size: 2.4rem;
+  font-weight: 500;
+  font-family: "Circular Std Book";
+  /* margin-bottom: 50px; */
+  text-align: center;
+}
+
 main #sobre .larguraMaxContainer #sobreMim {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1016,6 +1042,19 @@ main #servicos {
   background-color: #17161d;
 }
 
+main #mypersonalityqualities {
+  padding: 100px 50px;
+  text-align: center;
+  background-color: #17161d;
+}
+main #mypersonalityqualities .larguraMaxContainer {
+  color: #fefbfb;
+  font-size: 2.4rem;
+  font-weight: 500;
+  font-family: "Circular Std Book";
+  margin-bottom: 50px;
+  text-align: center;
+}
 @media screen and (max-width: 1024px) {
   main #servicos {
     padding: 50px 20px;
